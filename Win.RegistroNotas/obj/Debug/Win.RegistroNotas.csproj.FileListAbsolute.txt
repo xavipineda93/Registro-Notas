@@ -1,0 +1,106 @@
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe.config
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.pdb
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csprojResolveAssemblyReference.cache
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.Properties.Resources.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csproj.GenerateResource.Cache
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.exe
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.pdb
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormLogin.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMenu.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormAlumnos.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMaterias.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormNotas.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteA.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteM.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteN.resources
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\bin\Debug\BL.Registro.dll
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\Win.RegistroNotas\bin\Debug\BL.Registro.pdb
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe.config
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.exe
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.pdb
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.pdb
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\BL.Registro.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\BL.Registro.pdb
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csprojResolveAssemblyReference.cache
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormAlumnos.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormLogin.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMaterias.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMenu.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormNotas.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteA.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteM.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteN.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.Properties.Resources.resources
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csproj.GenerateResource.Cache
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\EntityFramework.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\EntityFramework.xml
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe.config
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.pdb
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.pdb
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\EntityFramework.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\EntityFramework.xml
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csprojResolveAssemblyReference.cache
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormAlumnos.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormLogin.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMaterias.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMenu.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormNotas.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteA.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteM.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteN.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.Properties.Resources.resources
+C:\Users\olvin\Desktop\Registro-Notas-master\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csproj.GenerateResource.Cache
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe.config
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.pdb
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.pdb
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\EntityFramework.dll
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\EntityFramework.xml
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csprojResolveAssemblyReference.cache
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormAlumnos.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormLogin.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMaterias.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMenu.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormNotas.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteA.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteM.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteN.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.Properties.Resources.resources
+C:\Users\olvin\Desktop\Copia Proyecto\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csproj.GenerateResource.Cache
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe.config
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.pdb
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.pdb
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\EntityFramework.dll
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\EntityFramework.xml
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csprojResolveAssemblyReference.cache
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormAlumnos.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormLogin.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMaterias.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormMenu.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormNotas.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteA.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteM.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteN.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.Properties.Resources.resources
+C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csproj.GenerateResource.Cache

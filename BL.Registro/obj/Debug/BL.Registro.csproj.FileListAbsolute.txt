@@ -1,0 +1,35 @@
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\BL.Registro\bin\Debug\BL.Registro.dll
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\BL.Registro\bin\Debug\BL.Registro.pdb
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\BL.Registro\obj\Debug\BL.Registro.csprojResolveAssemblyReference.cache
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\BL.Registro\obj\Debug\BL.Registro.dll
+C:\Users\Yasmin Coto\Desktop\Yasmin\L3\RegistroNotas\BL.Registro\obj\Debug\BL.Registro.pdb
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\BL.Registro.dll.config
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\BL.Registro.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\BL.Registro.pdb
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\EntityFramework.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\EntityFramework.xml
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\obj\Debug\BL.Registro.csprojResolveAssemblyReference.cache
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\obj\Debug\BL.Registro.dll
+C:\Users\ekt\Desktop\Registro-Notas\RegistroNotas\BL.Registro\obj\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\BL.Registro.dll.config
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\EntityFramework.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\EntityFramework.xml
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\obj\Debug\BL.Registro.csprojResolveAssemblyReference.cache
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\obj\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Registro-Notas-master\BL.Registro\obj\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\obj\Debug\BL.Registro.csprojResolveAssemblyReference.cache
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\obj\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\obj\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\BL.Registro.dll.config
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\BL.Registro.dll
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\BL.Registro.pdb
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\EntityFramework.dll
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\EntityFramework.xml
+C:\Users\olvin\Desktop\Copia Proyecto\BL.Registro\bin\Debug\EntityFramework.SqlServer.xml
