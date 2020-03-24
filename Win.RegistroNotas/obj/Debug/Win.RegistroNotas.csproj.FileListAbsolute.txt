@@ -104,3 +104,6 @@ C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNo
 C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.FormReporteN.resources
 C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.Properties.Resources.resources
 C:\Users\olvin\Desktop\Registro notas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.csproj.GenerateResource.Cache
+C:\Users\olvin\Desktop\RegistroNotas\Win.RegistroNotas\bin\Debug\Win.RegistroNotas.exe.config
+C:\Users\olvin\Desktop\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.exe
+C:\Users\olvin\Desktop\RegistroNotas\Win.RegistroNotas\obj\Debug\Win.RegistroNotas.pdb
